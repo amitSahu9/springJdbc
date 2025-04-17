@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: myjdbcapp
+  datasource:
+    platform: postgres
+    url: jdbc:postgresql://localhost:5432/mylocaldb
+    username: postgres
+    password: Welcome@123
